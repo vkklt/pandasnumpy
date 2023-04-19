@@ -5,6 +5,7 @@ o código realiza as seguintes operações usando o arquivo .csv para consulta<b
 2- média da coluna 'windspeed'<br>
 3- média da coluna 'temp'<br>
 4- registros totais de 2011 
+
 5- registros totais de 2012<br>
 6- locações totais de 2011<br>
 7- locações totais de 2012<br>
