@@ -1,7 +1,7 @@
 # pandasnumpy
-trabalho de introdução ao pandas e numpy<br>
+Trabalho de introdução ao pandas e numpy.<br>
 
-o código realiza as seguintes operações usando o arquivo .csv para consulta:<br>
+O código realiza as seguintes operações usando o arquivo .csv para consulta:<br>
 
 1- numero de linhas e colunas do .csv<br>
 2- média da coluna 'windspeed'<br>
